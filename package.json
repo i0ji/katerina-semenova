@@ -11,7 +11,7 @@
       "config": "./commitizen.config.js"
     }
   },
-  "packageManager": "pnpm@10.33.0",
+  "packageManager": "pnpm@11.1.2",
   "scripts": {
     "start": "vite",
     "build": "vite build",
@@ -30,26 +30,23 @@
     }
   },
   "dependencies": {
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4",
-    "vite": "^8.0.6"
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "vite": "^8.0.13"
   },
-  "overrides": {
-    "lodash": "^4.17.23",
-    "tmp": "^0.2.4"
-  },
+
   "devDependencies": {
-    "@commitlint/cli": "^20.5.0",
-    "@commitlint/config-conventional": "^20.5.0",
+    "@commitlint/cli": "^21.0.1",
+    "@commitlint/config-conventional": "^21.0.1",
     "@eslint/js": "^10.0.1",
     "@types/react": "19.2.14",
     "@types/react-dom": "^19.2.3",
     "@types/react-scroll": "^1.8.10",
     "cz-customizable": "^7.5.4",
-    "eslint": "10.2.0",
+    "eslint": "10.3.0",
     "gh-pages": "^6.3.0",
     "husky": "^9.1.7",
-    "jiti": "^2.6.1",
+    "jiti": "^2.7.0",
     "react-responsive-carousel": "^3.2.23",
     "react-scroll": "^1.9.3",
     "sass": "^1.99.0"
