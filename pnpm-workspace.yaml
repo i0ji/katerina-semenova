@@ -2,5 +2,7 @@ allowBuilds:
   '@parcel/watcher': set this to true or false
 minimumReleaseAgeExclude:
   - tmp@0.2.4
+  - tmp@0.2.6
+  - js-yaml@4.1.2
 overrides:
   tmp@<=0.2.3: ^0.2.4
