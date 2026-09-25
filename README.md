@@ -4,7 +4,7 @@
 
 <br />
 
-> Current version: 2.4.1/21.06.26
+> Current version: 2.4.1/25.09.26
 
 ### Current/Priority tasks:
 
